@@ -1,0 +1,29 @@
+[33mcommit f6dbb1df0ba16ba15619d07613e9f14f51a2f847[m[33m ([m[1;36mHEAD -> [m[1;32mfilling-layout-style[m[33m)[m
+Author: ylphp <1083419457@qq.com>
+Date:   Sat Jul 11 05:06:15 2020 +0000
+
+    切割头部和尾部子视图
+
+[33mcommit 4117b05e23977f7fdef81c004ffd761f450c7af8[m
+Author: ylphp <1083419457@qq.com>
+Date:   Sat Jul 11 04:59:37 2020 +0000
+
+    静态文件浏览器缓存问题
+
+[33mcommit 380bf78917cc18a0be1ad1803cc5dc7d33c5374f[m
+Author: ylphp <1083419457@qq.com>
+Date:   Sat Jul 11 04:49:32 2020 +0000
+
+    初始化样式
+
+[33mcommit e7801d4a234366978902ecd5ccbc89cc23eb6ef8[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mstatic-pages[m[33m, [m[1;32mmaster[m[33m)[m
+Author: ylphp <1083419457@qq.com>
+Date:   Sat Jul 11 00:43:37 2020 +0000
+
+    基础页面
+
+[33mcommit dd1494b6fe0e64f6bc77c05d866cd4b9bf57a18a[m
+Author: ylphp <1083419457@qq.com>
+Date:   Sat Jul 11 00:21:36 2020 +0000
+
+    Add .editorconfig
