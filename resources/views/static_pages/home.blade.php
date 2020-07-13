@@ -1,6 +1,11 @@
 @extends('layouts.default')
 
 @section('content')
+    @if (session('status'))
+        <div class="alert alert-success">
+            {{ session('status') }}
+        </div>
+    @endif
     <div class="jumbotron">
         <h1>Hello Laravel</h1>
         <p class="lead">
